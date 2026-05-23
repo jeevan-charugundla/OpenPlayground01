@@ -349,9 +349,7 @@ Interactive analytics dashboard with modern visualizations and insights.
 
 ---
 
-<div align="center">
 
-## 💜 Let's build something amazing together!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=140&section=footer"/>
 
